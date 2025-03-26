@@ -1,0 +1,3 @@
+- cascading config files
+- navigation mode (start button)
++ desktop overlay
