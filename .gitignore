@@ -1,5 +1,4 @@
 .clangd
 __pycache__/
 trash/
-psmove_tracker
-ids.txt
+thpsm

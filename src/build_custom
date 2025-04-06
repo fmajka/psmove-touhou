@@ -1,0 +1,4 @@
+ #!/usr/bin/bash 
+
+gcc -o $1 "$1.c" -I/usr/include/psmoveapi -lpsmoveapi -lpsmoveapi_tracker -lm
+
